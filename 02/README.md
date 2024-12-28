@@ -1,4 +1,4 @@
-# 1. 3D Visual Art With Blocks
+# 3D Visual Art With Blocks
 ## **Movement Controls**
 Use the **WASD** keys and **Q/E** keys to move the cube in 3D space:
 
@@ -29,7 +29,6 @@ Press a number key to change the color of the cube. The cube can adopt a wide ra
 | **8**  | Orange     | (1, 0.65, 0)   |
 | **9**  | Brick      | (0.66, 0.3, 0.26)|
 
----
 
 ## **Creating New Cubes**
 Press the **Spacebar** to create a new cube. The new cube will inherit the color and position of the current cube. 
