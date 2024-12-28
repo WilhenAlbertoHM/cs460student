@@ -1,5 +1,7 @@
 # PaddleWars! Clone
 
+## **How to Play**
+
 ## **Control the Paddle**
 - **Action**: Use the arrow keys on your keyboard:
   - Press **Arrow Left** to move the paddle to the left.
