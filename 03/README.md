@@ -1,4 +1,4 @@
-# 2. Torus Knots
+# Torus Knots
 
 ## **How to Play**
 
