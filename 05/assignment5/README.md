@@ -1,6 +1,5 @@
 # **Exploring Blender Models**
-- **Controls**:
-  
+## **Controls**
   - **Left-Click and Drag**: Rotate the camera to view the models from different angles.
   - **Right-Click and Drag**: Pan across the scene to adjust your view.
   - **Scroll Wheel**: Zoom in and out to focus on details or view the entire scene.
