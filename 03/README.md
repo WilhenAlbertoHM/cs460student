@@ -1,6 +1,6 @@
 # Torus Knots
 
-## **How to Play**
+## **Controls**
 
 ### 1. **Adding a Hotpink Torus**
 - **Action**: Press and hold the **Shift** key while clicking the mouse.
