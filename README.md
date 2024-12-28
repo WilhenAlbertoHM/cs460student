@@ -11,3 +11,5 @@ Here you can find my favorite projects from this course:
 2. Add Torus Knots onto the screen: https://wilhenalbertohm.github.io/cs460student/03/
 3. PaddleWar! clone: https://wilhenalbertohm.github.io/cs460student/04/
 4. Adjust lighting and mesh on a Blender model: https://wilhenalbertohm.github.io/cs460student/05/assignment5/
+
+You may find the instructions for each app within the corresponding folders (02, 03, 04, and 05)
